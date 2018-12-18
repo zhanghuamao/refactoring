@@ -6,19 +6,19 @@ public class TelephoneNumber {
     private String mOfficeAreaCode;
     private String mOfficeNumber;
 
-    public String getOfficeAreaCode() {
+    String getOfficeAreaCode() {
         return mOfficeAreaCode;
     }
 
-    public void setOfficeAreaCode(String officeAreaCode) {
+    void setOfficeAreaCode(String officeAreaCode) {
         this.mOfficeAreaCode = officeAreaCode;
     }
 
-    public String getOfficeNumber() {
+    String getOfficeNumber() {
         return mOfficeNumber;
     }
 
-    public void setOfficeNumber(String officeNumber) {
+    void setOfficeNumber(String officeNumber) {
         this.mOfficeNumber = officeNumber;
     }
 }

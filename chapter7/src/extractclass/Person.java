@@ -8,19 +8,23 @@ public class Person {
     // step2. 建立电话号码类和Person类的连接
     private TelephoneNumber mTelephoneNumber = new TelephoneNumber();
 
-    public String getOfficeAreaCode() {
+    public String getTelephoneNumber() {
+        return  ("(" + getOfficeAreaCode() + ") " + getOfficeNumber());
+    }
+
+    String getOfficeAreaCode() {
         return mTelephoneNumber.getOfficeAreaCode();
     }
 
-    public void setOfficeAreaCode(String officeAreaCode) {
+    void setOfficeAreaCode(String officeAreaCode) {
         mTelephoneNumber.setOfficeAreaCode(officeAreaCode);
     }
 
-    public String getOfficeNumber() {
+    String getOfficeNumber() {
         return mTelephoneNumber.getOfficeNumber();
     }
 
-    public void setOfficeNumber(String officeNumber) {
+    void setOfficeNumber(String officeNumber) {
         mTelephoneNumber.setOfficeNumber(officeNumber);
     }
 }

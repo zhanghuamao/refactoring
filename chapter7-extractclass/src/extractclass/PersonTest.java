@@ -7,8 +7,8 @@ public class PersonTest extends TestCase {
 
     public void setUp() throws Exception {
         mPerson = new Person();
-        mPerson.setOfficeNumber("028-111222");
-        mPerson.setOfficeAreaCode("001-000-111");
+        mPerson.setOfficeNumber("111222");
+        mPerson.setOfficeAreaCode("028");
     }
 
     public void tearDown() throws Exception {
@@ -20,5 +20,9 @@ public class PersonTest extends TestCase {
 
     public void testGetOfficeNumber() {
         System.out.println("testGetOfficeNumber : " + mPerson.getOfficeNumber());
+    }
+
+    public void testGetTelephoneNumber() {
+        System.out.println("testGetTelephoneNumber : " + mPerson.getTelephoneNumber());
     }
 }
