@@ -1,22 +1,24 @@
-package inlineclass;
+package extractclass;
 
+// step1. 创建电话号码的类
 public class TelephoneNumber {
+    // step3. 搬移字段
     private String mOfficeAreaCode;
     private String mOfficeNumber;
 
-    String getAreaCode() {
+    String getOfficeAreaCode() {
         return mOfficeAreaCode;
     }
 
-    void setAreaCode(String officeAreaCode) {
+    void setOfficeAreaCode(String officeAreaCode) {
         this.mOfficeAreaCode = officeAreaCode;
     }
 
-    String getNumber() {
+    String getOfficeNumber() {
         return mOfficeNumber;
     }
 
-    void setNumber(String officeNumber) {
+    void setOfficeNumber(String officeNumber) {
         this.mOfficeNumber = officeNumber;
     }
 }
