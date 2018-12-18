@@ -10,10 +10,18 @@ public class Account {
     }
 
     double interestForAmountDays(double amount, int days) {
-        return  mInterestRate * amount * days /365;
+        return  getInterestRate() * amount * days /365;
     }
 
     double interestForAmountYears(double amount, int years) {
-        return  mInterestRate * amount * years;
+        return  getInterestRate() * amount * years;
+    }
+
+    private void setInterestRate(double value) {
+        this.mInterestRate = value;
+    }
+
+    private double getInterestRate() {
+        return mInterestRate;
     }
 }
