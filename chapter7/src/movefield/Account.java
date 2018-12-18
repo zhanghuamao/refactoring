@@ -17,6 +17,7 @@ public class Account {
         return  getInterestRate() * amount * years;
     }
 
+    // step2. 替换字段
     private void setInterestRate(double value) {
         mType.setInterestRate(value);
     }
