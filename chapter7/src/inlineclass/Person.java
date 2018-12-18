@@ -9,18 +9,18 @@ public class Person {
     }
 
     String getOfficeAreaCode() {
-        return mTelephoneNumber.getOfficeAreaCode();
+        return mTelephoneNumber.getAreaCode();
     }
 
     void setOfficeAreaCode(String officeAreaCode) {
-        mTelephoneNumber.setOfficeAreaCode(officeAreaCode);
+        mTelephoneNumber.setAreaCode(officeAreaCode);
     }
 
     String getOfficeNumber() {
-        return mTelephoneNumber.getOfficeNumber();
+        return mTelephoneNumber.getNumber();
     }
 
     void setOfficeNumber(String officeNumber) {
-        mTelephoneNumber.setOfficeNumber(officeNumber);
+        mTelephoneNumber.setNumber(officeNumber);
     }
 }
