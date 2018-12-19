@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="541" />
-    <option name="y" value="85" />
+    <option name="x" value="59" />
+    <option name="y" value="294" />
     <option name="width" value="1938" />
     <option name="height" value="1095" />
   </component>
@@ -107,7 +107,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter7-movemethod3" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
