@@ -10,8 +10,6 @@ public class AccountTest extends TestCase {
         mAccountType = new AccountType(true);
         mAccount = new Account(mAccountType);
         mAccount.setDaysOverDrawn(2);
-        System.out.println("isPremium : " + mAccountType.isPremium());
-        System.out.println("getDaysOverDrawn : " + mAccount.getDaysOverDrawn());
     }
 
     public void tearDown() throws Exception {

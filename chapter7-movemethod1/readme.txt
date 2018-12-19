@@ -1,5 +1,5 @@
-±àĞ´²âÊÔÓÃÀı
-
+ç¼–å†™æµ‹è¯•ç”¨ä¾‹
+Test result:
 isPremium : true
 getDaysOverDrawn : 2
 bankCharge : 14.5
