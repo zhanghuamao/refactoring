@@ -238,7 +238,7 @@
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="Ddp71V1mMUqkoJRbpS80JQAA">
 <XPD:ATTR name="Name" type="string">mDaysOverDrawn</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">double</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">sfSQzTPfZEKqzKYlLYpj9gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
