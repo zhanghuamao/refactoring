@@ -1,4 +1,4 @@
-package removemiddleman;
+package hidedelegate;
 
 public class Person {
     Department mDepartment;
@@ -8,19 +8,18 @@ public class Person {
         this.mName = name;
     }
 
+    // step3. 完成委托后，移除getDepartment
+    /* public Department getDepartment() {
+        return mDepartment;
+    } */
+
     public void setDepartment(Department department) {
         this.mDepartment = department;
     }
 
-    // step2. 替换调用getManager的地方
-    // step3. 删除委托函数
-    /* public Person getManager() {
+    // step1. 在Person中建立一个委托函数
+    public Person getManager() {
         return mDepartment.getManager();
-    } */
-
-    // step1. 建立一个函数，用于获取委托的对象
-    public Department getDepartment() {
-        return mDepartment;
     }
 
     @Override
