@@ -15,19 +15,15 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/extractclass/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="381">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding>
                 <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,10 +34,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="9" column="31" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -49,17 +41,17 @@
       <file leaf-file-name="TelephoneNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/extractclass/TelephoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="350">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,38 +80,40 @@
         <option value="$PROJECT_DIR$/src/movefield/AccountTest.java" />
         <option value="$PROJECT_DIR$/src/movefield/Account.java" />
         <option value="$PROJECT_DIR$/src/extractclass/TelephoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/extractclass/Person.java" />
         <option value="$PROJECT_DIR$/src/extractclass/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/extractclass/Person.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="537" />
-    <option name="y" value="237" />
+    <option name="x" value="-155" />
+    <option name="y" value="281" />
     <option name="width" value="1938" />
-    <option name="height" value="1102" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="chapter7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7-extractclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter7-extractclass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="chapter7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7-extractclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter7-extractclass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="chapter7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7-extractclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter7-extractclass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="extractclass" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -127,15 +121,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter7" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -387,26 +379,26 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.47772276" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28465346" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28465346" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26126608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.47772276" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -442,11 +434,95 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/extractclass/Person.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/extractclass/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extractclass/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extractclass/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extractclass/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extractclass/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extractclass/TelephoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/movemethod/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -485,18 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,34 +609,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/extractclass/TelephoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="350">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -581,28 +633,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/extractclass/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="381">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding>
             <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
           </folding>
         </state>
       </provider>
