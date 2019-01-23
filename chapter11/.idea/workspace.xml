@@ -15,14 +15,8 @@
       <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="225">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -31,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/ManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -39,11 +33,11 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,26 +59,57 @@
       <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="225">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/JobItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="32" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Employee.java">
+      <file leaf-file-name="JobItemTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/JobItemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="475">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
               <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,14 +168,17 @@
         <option value="$PROJECT_DIR$/src/before/pullupconstructorbody/Employee.java" />
         <option value="$PROJECT_DIR$/src/after/pullupconstructorbody/Manager.java" />
         <option value="$PROJECT_DIR$/src/after/pullupconstructorbody/Employee.java" />
+        <option value="$PROJECT_DIR$/src/before/extractsubclass/Employee.java" />
+        <option value="$PROJECT_DIR$/src/before/extractsubclass/JobItem.java" />
+        <option value="$PROJECT_DIR$/src/before/extractsubclass/JobItemTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1938" />
-    <option name="height" value="1102" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -176,13 +204,7 @@
               <item name="chapter11" type="b2602c69:ProjectViewProjectNode" />
               <item name="chapter11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pullupconstructorbody" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chapter11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pullupconstructorbody" type="462c0819:PsiDirectoryNode" />
+              <item name="extractsubclass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="before.extractsubclass" />
       <recent name="before.pullupconstructorbody" />
       <recent name="before.pullupmethod" />
       <recent name="before.pullupfield" />
@@ -221,9 +244,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ManagerTest (1)">
+  <component name="RunManager" selected="JUnit.JobItemTest.testGetTotalPrice">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JobItemTest.testGetTotalPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="before.extractsubclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="before.extractsubclass" />
+      <option name="MAIN_CLASS_NAME" value="before.extractsubclass.JobItemTest" />
+      <option name="METHOD_NAME" value="testGetTotalPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ManagerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter11" />
@@ -317,29 +363,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RegularCustomerTest.testCreateBill (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="after.pullupmethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="after.pullupmethod" />
-      <option name="MAIN_CLASS_NAME" value="after.pullupmethod.RegularCustomerTest" />
-      <option name="METHOD_NAME" value="testCreateBill" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -379,19 +402,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.RegularCustomerTest.testCreateBill (1)" />
       <item itemvalue="JUnit.ManagerTest.testGetManagerInfo" />
       <item itemvalue="JUnit.ManagerTest.testGetManagerInfo (1)" />
       <item itemvalue="JUnit.ManagerTest" />
       <item itemvalue="JUnit.ManagerTest (1)" />
+      <item itemvalue="JUnit.JobItemTest.testGetTotalPrice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JobItemTest.testGetTotalPrice" />
         <item itemvalue="JUnit.ManagerTest (1)" />
         <item itemvalue="JUnit.ManagerTest" />
         <item itemvalue="JUnit.ManagerTest.testGetManagerInfo" />
         <item itemvalue="JUnit.ManagerTest.testGetManagerInfo (1)" />
-        <item itemvalue="JUnit.RegularCustomerTest.testCreateBill (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -409,27 +432,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ManagerTest_testGetManagerInfo - 2019.01.21 at 13h 22m 22s.xml">
-      <configuration name="ManagerTest.testGetManagerInfo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest_testGetManagerInfo_(1) - 2019.01.21 at 13h 32m 15s.xml">
-      <configuration name="ManagerTest.testGetManagerInfo (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest_testGetManagerInfo - 2019.01.21 at 14h 22m 21s.xml">
-      <configuration name="ManagerTest.testGetManagerInfo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest_testGetManagerInfo - 2019.01.21 at 14h 22m 28s.xml">
-      <configuration name="ManagerTest.testGetManagerInfo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest - 2019.01.21 at 14h 22m 41s.xml">
-      <configuration name="ManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest - 2019.01.21 at 14h 22m 43s.xml">
-      <configuration name="ManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ManagerTest - 2019.01.21 at 14h 22m 58s.xml">
-      <configuration name="ManagerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ManagerTest_(1) - 2019.01.21 at 14h 24m 03s.xml">
       <configuration name="ManagerTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -439,9 +441,31 @@
     <history-entry file="ManagerTest_(1) - 2019.01.21 at 14h 26m 54s.xml">
       <configuration name="ManagerTest (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 04m 15s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 04m 31s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 05m 33s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 06m 01s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 06m 22s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 06m 36s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JobItemTest_testGetTotalPrice - 2019.01.23 at 11h 06m 49s.xml">
+      <configuration name="JobItemTest.testGetTotalPrice" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="75" width="1938" height="1102" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,12 +475,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55934066" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26856434" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26126608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26502147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -493,6 +517,49 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/after/pullupmethod/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -797,58 +864,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/ManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="225">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/pullupconstructorbody/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/JobItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/after/pullupconstructorbody/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/before/extractsubclass/JobItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
