@@ -1,21 +1,20 @@
-package before.extractsubclass;
+package after.extractsubclass;
 
 // JobItem用来决定当地修车厂的工作报价,isLabor表示按工时收费
 public class JobItem {
     private int unitPrice;
     private int quantity;
-    private Employee employee;
-    private boolean isLabor;
+    protected Employee employee;
+    protected boolean isLabor;
 
-    public JobItem(int unitPrice, int quantity, Employee employee, boolean isLabor) {
+    protected JobItem(int unitPrice, int quantity, boolean isLabor) {
         this.unitPrice = unitPrice;
         this.quantity = quantity;
-        this.employee = employee;
         this.isLabor = isLabor;
     }
 
-    public Employee getEmployee() {
-        return employee;
+    public JobItem(int unitPrice, int quantity) {
+        this(unitPrice, quantity, false);
     }
 
     public int getUnitPrice() {
