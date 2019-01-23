@@ -17,10 +17,12 @@ public class JobItem {
         this(unitPrice, quantity, false);
     }
 
+    protected boolean isLabor() {
+        return false;
+    }
+
     public int getUnitPrice() {
-        return (isLabor) ?
-                employee.getRate() :
-                unitPrice;
+        return unitPrice;
     }
 
     public int getTotalPrice() {

@@ -14,4 +14,8 @@ public class LaborItem extends JobItem {
     protected boolean isLabor() {
         return isLabor;
     }
+
+    public int getUnitPrice() {
+        return employee.getRate();
+    }
 }
